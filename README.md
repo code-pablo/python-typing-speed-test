@@ -25,5 +25,39 @@ Built with the [`pynput`](https://pypi.org/project/pynput/) library, it listens 
    git clone https://github.com/code-pablo/typing-speed-tracker.git
    cd typing-speed-tracker
 
+2. Install dependencies:
+    ```bash
+    pip install pynput
+
+3.Output
+   Typing Speed Test
+   Type the following text as quickly and accurately as you can:
+   typing speed tracker is a clean and fun project  to help you improve your typing speed and accuracy.
+   Press Enter when you are done.
+   
+   typing speed tracker is a clean and fun project  to help you improve your typing sped and accuracy.
+
+      Test Completed!
+   Total Time: 46.99 seconds
+   Total Words Typed: 18.00
+   Correct Words: 17
+   Incorrect Words: 1.00
+   Accuracy: 94.44444444444444%
+   Words Per Minute (WPM): 22.98
+
+
+⚠️ Disclaimer
+
+This project is for educational purposes only.
+It demonstrates how to use keyboard listeners in Python for building typing practice tools. It does not store or transmit any keystrokes.
+
+
+   
+   
+   
+   
+
+
+
 
 
